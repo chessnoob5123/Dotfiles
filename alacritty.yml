@@ -1,0 +1,5 @@
+window:
+	decorations: buttonless
+	dynamic_padding: false
+	opacity: 0.9
+

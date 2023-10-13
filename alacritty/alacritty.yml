@@ -1,0 +1,24 @@
+import:
+  - ~/.config/alacritty/theme.yml
+window:
+  opacity: 0.9
+  decorations: buttonless
+  padding:
+    x: 7
+    y: 7
+font:
+  normal:
+    family: "JetBrainsMono Nerd Font"
+    style: Medium
+  italic:
+    family: "JetBrainsMono Nerd Font"
+    style: Medium Italic
+  bold:
+    family: "JetBrainsMono Nerd Font"
+    style: Heavy
+  bold_italic:
+    family: "JetBrainsMono Nerd Font"
+    style: Heavy Italic
+shell:
+  program: /opt/homebrew/bin/fish
+
